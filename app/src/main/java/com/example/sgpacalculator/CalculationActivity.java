@@ -13,16 +13,17 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.android.material.button.MaterialButton;
+
 import java.text.DecimalFormat;
 
 public class CalculationActivity extends AppCompatActivity {
 
     EditText marks1, marks2, marks3, marks4,  marks5, marks6, marks7, marks8, marks9, marks10, credits1, credits2, credits3, credits4, credits5, credits6, credits7, credits8, credits9, credits10;
-    Button btnCal;
+    MaterialButton btnCal;
     TextView disResult;
 
 
-    @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

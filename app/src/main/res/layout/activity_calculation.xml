@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".CalculationActivity"
-    android:background="#03FFD9"
+    android:background="#91D7E3"
     android:orientation="vertical"
     android:gravity="center">
 
@@ -26,7 +26,7 @@
                 android:padding="5dp"
                 android:text="Points"
                 android:textAlignment="center"
-                android:textColor="#ffffff"
+                android:textColor="#79B0FB"
                 android:textSize="30sp" />
 
             <TextView
@@ -37,7 +37,7 @@
                 android:padding="5dp"
                 android:text="Credits"
                 android:textAlignment="center"
-                android:textColor="#ffffff"
+                android:textColor="#79B0FB"
                 android:textSize="30sp" />
 
         </TableRow>
@@ -51,8 +51,9 @@
                 android:textAlignment="center"
                 android:layout_marginLeft="2dp"
                 android:layout_marginBottom="2dp"
-                android:background="#ffffff"
+                android:background="#79B0FB"
                 android:textColor="#000000"
+                android:textSize="20sp"
                 android:inputType="number"/>
 
             <EditText
@@ -63,8 +64,9 @@
                 android:layout_marginLeft="2dp"
                 android:layout_marginRight="2dp"
                 android:layout_marginBottom="2dp"
-                android:background="#ffffff"
+                android:background="#79B0FB"
                 android:textColor="#000000"
+                android:textSize="20sp"
                 android:inputType="numberDecimal"/>
         </TableRow>
 
@@ -77,8 +79,9 @@
                 android:textAlignment="center"
                 android:layout_marginLeft="2dp"
                 android:layout_marginBottom="2dp"
-                android:background="#ffffff"
+                android:background="#79B0FB"
                 android:textColor="#000000"
+                android:textSize="20sp"
                 android:inputType="number"/>
 
             <EditText
@@ -89,8 +92,9 @@
                 android:layout_marginLeft="2dp"
                 android:layout_marginRight="2dp"
                 android:layout_marginBottom="2dp"
-                android:background="#ffffff"
+                android:background="#79B0FB"
                 android:textColor="#000000"
+                android:textSize="20sp"
                 android:inputType="numberDecimal"/>
         </TableRow>
 
@@ -103,8 +107,9 @@
                 android:textAlignment="center"
                 android:layout_marginLeft="2dp"
                 android:layout_marginBottom="2dp"
-                android:background="#ffffff"
+                android:background="#79B0FB"
                 android:textColor="#000000"
+                android:textSize="20sp"
                 android:inputType="number"/>
 
             <EditText
@@ -115,8 +120,9 @@
                 android:layout_marginLeft="2dp"
                 android:layout_marginRight="2dp"
                 android:layout_marginBottom="2dp"
-                android:background="#ffffff"
+                android:background="#79B0FB"
                 android:textColor="#000000"
+                android:textSize="20sp"
                 android:inputType="numberDecimal"/>
         </TableRow>
 
@@ -129,8 +135,9 @@
                 android:textAlignment="center"
                 android:layout_marginLeft="2dp"
                 android:layout_marginBottom="2dp"
-                android:background="#ffffff"
+                android:background="#79B0FB"
                 android:textColor="#000000"
+                android:textSize="20sp"
                 android:inputType="number"/>
 
             <EditText
@@ -141,8 +148,9 @@
                 android:layout_marginLeft="2dp"
                 android:layout_marginRight="2dp"
                 android:layout_marginBottom="2dp"
-                android:background="#ffffff"
+                android:background="#79B0FB"
                 android:textColor="#000000"
+                android:textSize="20sp"
                 android:inputType="numberDecimal"/>
         </TableRow>
 
@@ -155,8 +163,9 @@
                 android:textAlignment="center"
                 android:layout_marginLeft="2dp"
                 android:layout_marginBottom="2dp"
-                android:background="#ffffff"
+                android:background="#79B0FB"
                 android:textColor="#000000"
+                android:textSize="20sp"
                 android:inputType="number"/>
 
             <EditText
@@ -167,8 +176,9 @@
                 android:layout_marginLeft="2dp"
                 android:layout_marginRight="2dp"
                 android:layout_marginBottom="2dp"
-                android:background="#ffffff"
+                android:background="#79B0FB"
                 android:textColor="#000000"
+                android:textSize="20sp"
                 android:inputType="numberDecimal"/>
         </TableRow>
 
@@ -181,8 +191,9 @@
                 android:textAlignment="center"
                 android:layout_marginLeft="2dp"
                 android:layout_marginBottom="2dp"
-                android:background="#ffffff"
+                android:background="#79B0FB"
                 android:textColor="#000000"
+                android:textSize="20sp"
                 android:inputType="number"/>
 
             <EditText
@@ -193,8 +204,9 @@
                 android:layout_marginLeft="2dp"
                 android:layout_marginRight="2dp"
                 android:layout_marginBottom="2dp"
-                android:background="#ffffff"
+                android:background="#79B0FB"
                 android:textColor="#000000"
+                android:textSize="20sp"
                 android:inputType="numberDecimal"/>
         </TableRow>
 
@@ -207,8 +219,9 @@
                 android:textAlignment="center"
                 android:layout_marginLeft="2dp"
                 android:layout_marginBottom="2dp"
-                android:background="#ffffff"
+                android:background="#79B0FB"
                 android:textColor="#000000"
+                android:textSize="20sp"
                 android:inputType="number"/>
 
             <EditText
@@ -219,8 +232,9 @@
                 android:layout_marginLeft="2dp"
                 android:layout_marginRight="2dp"
                 android:layout_marginBottom="2dp"
-                android:background="#ffffff"
+                android:background="#79B0FB"
                 android:textColor="#000000"
+                android:textSize="20sp"
                 android:inputType="numberDecimal"/>
         </TableRow>
 
@@ -233,8 +247,9 @@
                 android:textAlignment="center"
                 android:layout_marginLeft="2dp"
                 android:layout_marginBottom="2dp"
-                android:background="#ffffff"
+                android:background="#79B0FB"
                 android:textColor="#000000"
+                android:textSize="20sp"
                 android:inputType="number"/>
 
             <EditText
@@ -245,8 +260,9 @@
                 android:layout_marginLeft="2dp"
                 android:layout_marginRight="2dp"
                 android:layout_marginBottom="2dp"
-                android:background="#ffffff"
+                android:background="#79B0FB"
                 android:textColor="#000000"
+                android:textSize="20sp"
                 android:inputType="numberDecimal"/>
         </TableRow>
 
@@ -259,8 +275,9 @@
                 android:textAlignment="center"
                 android:layout_marginLeft="2dp"
                 android:layout_marginBottom="2dp"
-                android:background="#ffffff"
+                android:background="#79B0FB"
                 android:textColor="#000000"
+                android:textSize="20sp"
                 android:inputType="number"/>
 
             <EditText
@@ -271,8 +288,9 @@
                 android:layout_marginLeft="2dp"
                 android:layout_marginRight="2dp"
                 android:layout_marginBottom="2dp"
-                android:background="#ffffff"
+                android:background="#79B0FB"
                 android:textColor="#000000"
+                android:textSize="20sp"
                 android:inputType="numberDecimal"/>
         </TableRow>
 
@@ -285,8 +303,9 @@
                 android:textAlignment="center"
                 android:layout_marginLeft="2dp"
                 android:layout_marginBottom="2dp"
-                android:background="#ffffff"
+                android:background="#79B0FB"
                 android:textColor="#000000"
+                android:textSize="20sp"
                 android:inputType="number"/>
 
             <EditText
@@ -297,20 +316,22 @@
                 android:layout_marginLeft="2dp"
                 android:layout_marginRight="2dp"
                 android:layout_marginBottom="2dp"
-                android:background="#ffffff"
+                android:background="#79B0FB"
                 android:textColor="#000000"
+                android:textSize="20sp"
                 android:inputType="numberDecimal"/>
         </TableRow>
 
     </TableLayout>
 
-    <Button
+    <com.google.android.material.button.MaterialButton
         android:id="@+id/btnCal"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
         android:text="Calculate"
-        android:textSize="20dp"/>
+        android:textSize="20dp"
+        android:backgroundTint="#FD2C32"/>
 
     <TextView
         android:id="@+id/disResult"
