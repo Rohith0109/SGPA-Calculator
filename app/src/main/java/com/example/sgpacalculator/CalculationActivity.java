@@ -17,7 +17,7 @@ import java.text.DecimalFormat;
 
 public class CalculationActivity extends AppCompatActivity {
 
-    EditText marks1, marks2, marks3, marks4,  marks5, marks6, marks7, marks8, credits1, credits2, credits3, credits4, credits5, credits6, credits7, credits8;
+    EditText marks1, marks2, marks3, marks4,  marks5, marks6, marks7, marks8, marks9, marks10, credits1, credits2, credits3, credits4, credits5, credits6, credits7, credits8, credits9, credits10;
     Button btnCal;
     TextView disResult;
 
@@ -48,7 +48,9 @@ public class CalculationActivity extends AppCompatActivity {
                         (conv(marks5) * conv(credits5)) +
                         (conv(marks6) * conv(credits6)) +
                         (conv(marks7) * conv(credits7)) +
-                        (conv(marks8) * conv(credits8));
+                        (conv(marks8) * conv(credits8)) +
+                        (conv(marks9) * conv(credits9)) +
+                        (conv(marks10) * conv(credits10));
                 double credits = conv(credits1) +
                         conv(credits2) +
                         conv(credits3) +
@@ -56,7 +58,9 @@ public class CalculationActivity extends AppCompatActivity {
                         conv(credits5) +
                         conv(credits6) +
                         conv(credits7) +
-                        conv(credits8);
+                        conv(credits8) +
+                        conv(credits9) +
+                        conv(credits10);
                 try {
                     if (points == 0 || credits == 0) {
                         disResult.setText("Invalid input");
@@ -90,6 +94,8 @@ public class CalculationActivity extends AppCompatActivity {
         marks6=findViewById(R.id.marks6);
         marks7=findViewById(R.id.marks7);
         marks8=findViewById(R.id.marks8);
+        marks9=findViewById(R.id.marks9);
+        marks10=findViewById(R.id.marks10);
         credits1=findViewById(R.id.credits1);
         credits2=findViewById(R.id.credits2);
         credits3=findViewById(R.id.credits3);
@@ -98,6 +104,8 @@ public class CalculationActivity extends AppCompatActivity {
         credits6=findViewById(R.id.credits6);
         credits7=findViewById(R.id.credits7);
         credits8=findViewById(R.id.credits8);
+        credits9=findViewById(R.id.credits9);
+        credits10=findViewById(R.id.credits10);
         disResult = findViewById(R.id.disResult);
     }
 
